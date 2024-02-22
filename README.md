@@ -1,1 +1,3 @@
 # Music
+
+An Analysis of Ghanaian Gospel Choral Songs used a smallGhanaian choral music dataset which represents a vibrant collection deeply rooted in the rich cultural heritage of Ghana. This corpus encompasses a diverse array of choral compositions, showcasing the multifaceted melodic intricacies, rhythmic vibrancy, and soul-stirring harmonies inherent in Ghanaian musical traditions. These gospel compositions often narrate tales of biblical events, thanksgiving, solemnity,and communal celebrations, embodying the essence of faith, unity and expression through music within Ghana's cultural tapestry.
